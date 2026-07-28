@@ -2,8 +2,6 @@
 
 An end-to-end Power BI dashboard analyzing Blinkit's business data across a 6-page interactive report — covering sales performance, customer behavior, product/category trends, delivery operations, and regional performance.
 
-> 📌 **Note:** This README uses placeholder page names and metrics based on common Blinkit dashboard structures. Replace the sections marked `[UPDATE]` with your actual page titles, KPIs, and screenshots before publishing.
-
 ---
 
 
