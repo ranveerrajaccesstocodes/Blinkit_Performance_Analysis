@@ -46,7 +46,6 @@ Delivery time analysis, on-time vs. delayed delivery rates, rider/partner perfor
 ### 6️⃣ Regional / Geographic Analysis
 City- and zone-wise performance, revenue and order distribution on a map view, and identification of high-growth vs. underperforming regions.
 
-> ✏️ `[UPDATE each section above with your actual page titles and the real visuals/filters used — e.g., slicers, chart types, drill-throughs, bookmarks.]`
 
 ---
 
@@ -66,16 +65,15 @@ blinkit-dashboard/
 
 ## Future Improvements
 
-- `[UPDATE — e.g., Add predictive churn/demand forecasting]`
-- `[UPDATE — e.g., Automate data refresh via Power BI Service / Gateway]`
-- `[UPDATE — e.g., Add drill-through pages for order-level detail]`
+- `[Add predictive churn/demand forecasting]`
+- `[ Automate data refresh via Power BI Service / Gateway]`
+- `[Add drill-through pages for order-level detail]`
 
 ---
 
 ## Author
 
-**`[Your Name]`**
-`[LinkedIn / Portfolio / GitHub link]`
+**`[Ranveer Raj]`**
 
 ---
 
