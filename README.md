@@ -9,7 +9,7 @@ An end-to-end Power BI dashboard analyzing Blinkit's business data across a 6-pa
 
 This project is a **6-page Power BI dashboard** built to analyze Blinkit's business performance — order trends, revenue, customer behavior, product/category performance, delivery efficiency, and regional distribution. It's designed to help business stakeholders make faster, data-driven decisions by consolidating raw operational data into clear, interactive visuals.
 
-**Goal:** `[UPDATE — e.g., "Identify key revenue drivers, delivery bottlenecks, and customer trends to support quick-commerce growth strategy."]`
+**Goal:** `["Identify key revenue drivers, delivery bottlenecks, and customer trends to support quick-commerce growth strategy."]`
 
 ---
 
